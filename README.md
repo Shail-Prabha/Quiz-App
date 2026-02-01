@@ -74,5 +74,7 @@ API-based questions 🌐
 👩‍💻 Author
 
 Shail Prabha
+
 Beginner JavaScript Developer 🚀
+
 Learning by building real projects 💻
