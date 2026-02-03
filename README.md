@@ -3,8 +3,9 @@ A simple and interactive Quiz Application built using HTML, CSS, and JavaScript.
 
 
 
-🚀 Features
+🚀 Features 
 
+____________________________________
 📋 Multiple-choice questions
 
 ✅ Instant answer validation
@@ -21,6 +22,9 @@ A simple and interactive Quiz Application built using HTML, CSS, and JavaScript.
 
 🛠️ Technologies Used
 
+
+______________________________________
+
 HTML – Structure of the application
 
 CSS – Styling and layout
@@ -31,6 +35,8 @@ JavaScript – Quiz logic, event handling, and dynamic updates
 
 
 📌 How It Works
+
+_________________________________
 
 User selects an answer for each question
 
@@ -45,6 +51,8 @@ Final score is displayed after completing the quiz
 
 
 📂 Project Purpose
+
+_____________________________________
 
 This project was created to:
 
@@ -61,6 +69,8 @@ Improve logical thinking through real-world implementation
 
 🌱 Future Improvements
 
+________________________________
+
 Timer-based questions ⏱️
 
 Question categories 📚
@@ -72,6 +82,8 @@ API-based questions 🌐
 
 
 👩‍💻 Author
+
+_______________________________
 
 Shail Prabha
 
