@@ -3,7 +3,7 @@ A simple and interactive Quiz Application built using HTML, CSS, and JavaScript.
 
 ___________________________________________
 
-🚀 Features 
+🚀 Features :
 
 
 📋 Multiple-choice questions
@@ -21,7 +21,7 @@ ___________________________________________
 
 ______________________________________
 
-🛠️ Technologies Used
+🛠️ Technologies Used :
 
 
 
@@ -35,7 +35,7 @@ JavaScript – Quiz logic, event handling, and dynamic updates
 
 _________________________________
 
-📌 How It Works
+📌 How It Works :
 
 
 User selects an answer for each question
@@ -51,7 +51,7 @@ Final score is displayed after completing the quiz
 
 _____________________________________
 
-📂 Project Purpose
+📂 Project Purpose :
 
 
 This project was created to:
@@ -68,7 +68,7 @@ Improve logical thinking through real-world implementation
 
 ________________________________
 
-🌱 Future Improvements
+🌱 Future Improvements :
 
 
 Timer-based questions ⏱️
@@ -82,7 +82,7 @@ API-based questions 🌐
 
 _______________________________
 
-👩‍💻 Author
+👩‍💻 Author :
 
 
 Shail Prabha
