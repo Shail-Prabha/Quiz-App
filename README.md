@@ -1,11 +1,11 @@
 # Quiz-App
 A simple and interactive Quiz Application built using HTML, CSS, and JavaScript.
 
-
+___________________________________________
 
 🚀 Features 
 
-____________________________________
+
 📋 Multiple-choice questions
 
 ✅ Instant answer validation
@@ -19,11 +19,11 @@ ____________________________________
 ⚡ Fast and lightweight (no frameworks)
 
 
+______________________________________
 
 🛠️ Technologies Used
 
 
-______________________________________
 
 HTML – Structure of the application
 
@@ -33,10 +33,10 @@ JavaScript – Quiz logic, event handling, and dynamic updates
 
 
 
+_________________________________
 
 📌 How It Works
 
-_________________________________
 
 User selects an answer for each question
 
@@ -49,10 +49,10 @@ Final score is displayed after completing the quiz
 
 
 
+_____________________________________
 
 📂 Project Purpose
 
-_____________________________________
 
 This project was created to:
 
@@ -66,10 +66,10 @@ Improve logical thinking through real-world implementation
 
 
 
+________________________________
 
 🌱 Future Improvements
 
-________________________________
 
 Timer-based questions ⏱️
 
@@ -80,10 +80,10 @@ High-score tracking 🏆
 API-based questions 🌐
 
 
+_______________________________
 
 👩‍💻 Author
 
-_______________________________
 
 Shail Prabha
 
